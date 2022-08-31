@@ -2,7 +2,7 @@
 
 **The questions are answered below:**
 
-1.  -First Name: Sina
+1.  - First Name: Sina
 
     - Last Name: Salehipour
 
